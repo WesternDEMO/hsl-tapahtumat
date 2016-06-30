@@ -10,5 +10,16 @@ package fi.western.transactions.model;
  * @author pr
  */
 public class TrafficDetailConnector {
+    private int db;
+
+    public int getDb() {
+        return db;
+    }
+
+    public void setDb(int db) {
+        this.db = db;
+    }
+    
+    
     
 }
