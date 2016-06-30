@@ -19,7 +19,7 @@ import javax.ws.rs.core.MediaType;
  *
  * @author pr
  */
-@Path("generic")
+@Path("transactions")
 public class TransactionHandler {
 
     @Context
