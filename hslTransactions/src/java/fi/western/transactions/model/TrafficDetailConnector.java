@@ -9,6 +9,6 @@ package fi.western.transactions.model;
  *
  * @author pr
  */
-public class HogiaConnector {
+public class TrafficDetailConnector {
     
 }
